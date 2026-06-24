@@ -155,6 +155,6 @@ MIT
 
 Built with Go + Wails · Сделано с использованием Go + Wails
 
-[Telegram](https://t.me/bashakul) · [GitHub](https://github.com/bashakul)
+[Telegram](https://t.me/bashakul)
 
 </div>
