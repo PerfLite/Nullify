@@ -6,8 +6,6 @@
 
 [![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white)](https://go.dev)
 [![Wails](https://img.shields.io/badge/Wails-v2-5DC2E7?logo=wails&logoColor=white)](https://wails.io)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
 </div>
 
 ---
