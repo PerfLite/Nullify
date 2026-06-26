@@ -145,7 +145,7 @@ Nullify/
 
 ## License / Лицензия
 
-MIT
+GPL-3.0
 
 ---
 
